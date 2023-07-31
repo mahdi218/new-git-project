@@ -4,5 +4,6 @@ class VeryNewJava {
             return true;
         }
         return false;
+        // heyheyne
     }
 }

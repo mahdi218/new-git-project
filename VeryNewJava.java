@@ -5,5 +5,6 @@ class VeryNewJava {
         }
         return false;
         // heyheyne
+        // another comment is added.
     }
 }
